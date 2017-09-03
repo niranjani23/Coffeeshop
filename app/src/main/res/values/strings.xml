@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CoffeeShop</string>
+    <string name="app_name">SweetLeafCoffee</string>
+    <string name="welcome_msg">Welcome to Sweet Leaf</string>
+    <string name="visit_msg">Visit us at: </string>
+    <string name="address">10-93 Jackson Ave, Long Island City, NY 11101</string>
+    <string name="hours1">Hours: Mon-Sat: 7am - 7pm</string>
+    <string name="hours2">Sun: Closed</string>
 </resources>
